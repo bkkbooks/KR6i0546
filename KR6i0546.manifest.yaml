@@ -37,9 +37,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0546_000.yaml, hash: 'sha256:ea6609952c55c0797ac4e599470e3406c70646bb8dd5bf9936bd1696f524cbdc'}
-  - {seq: 1, filename: KR6i0546_001.yaml, hash: 'sha256:959939562cdc869df57ac49692632b3533987cf9c144c06204bba7498735c450'}
+  - {seq: 1, filename: KR6i0546_001.yaml, hash: 'sha256:d2f141bb48b989f13576f7a530e5392d64c5d56003b7cd46d606de19ff3ba1f9'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0546_001.markers.yaml, hash: 'sha256:384252004d9727a9cdfc3c92921f63f39dc37a038466e70919f4fd8b995a227a'}
+  - {seq: 0, role: markers, filename: assets/KR6i0546_000.markers.yaml, hash: 'sha256:ce4cc0b1955eb890410d892f48121387844902af439bd20554bc2dab7b238290'}
+  - {seq: 1, role: markers, filename: assets/KR6i0546_001.markers.yaml, hash: 'sha256:0910c447df3af0a7b1053c3abc4c173d5e442095f14a490ad005a2396e8aad31'}
 table_of_contents:
 - ref:
     seq: 1
@@ -51,7 +52,4 @@ table_of_contents:
   label: 稱讚大乘功德經
   type: juan
   level: 1
-hash: sha256:212cb9e8ee2afa80e7f183bca590de202a85b7a3529c8a890b524f08cb4bb979
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:36dbf5c5561b2ef1e62e5b61fd2858bfcf43659aacb110d1bcaa003c33dec485
